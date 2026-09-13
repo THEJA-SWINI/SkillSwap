@@ -1,0 +1,167 @@
+[
+  {
+    "id": "skill001",
+    "mentorId": "YOUR_USER_ID",
+    "name": "React.js",
+    "description": "Learn React components, hooks, props, state and routing.",
+    "category": "Programming",
+    "hourlyRate": 500,
+    "rating": 4.8,
+    "reviewsCount": 12,
+    "createdAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "skill002",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Java Programming",
+    "description": "Learn Java basics, OOP, collections, exception handling and JDBC.",
+    "category": "Programming",
+    "hourlyRate": 400,
+    "rating": 4.7,
+    "reviewsCount": 10,
+    "createdAt": "2026-09-01T10:10:00.000Z"
+  },
+  {
+    "id": "skill003",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Python",
+    "description": "Learn Python programming, functions, modules and object-oriented programming.",
+    "category": "Programming",
+    "hourlyRate": 450,
+    "rating": 4.6,
+    "reviewsCount": 8,
+    "createdAt": "2026-09-01T10:20:00.000Z"
+  },
+  {
+    "id": "skill004",
+    "mentorId": "YOUR_USER_ID",
+    "name": "HTML and CSS",
+    "description": "Learn how to create responsive websites using HTML and CSS.",
+    "category": "Programming",
+    "hourlyRate": 300,
+    "rating": 4.5,
+    "reviewsCount": 7,
+    "createdAt": "2026-09-01T10:30:00.000Z"
+  },
+  {
+    "id": "skill005",
+    "mentorId": "YOUR_USER_ID",
+    "name": "JavaScript",
+    "description": "Learn JavaScript fundamentals, ES6, DOM manipulation and asynchronous programming.",
+    "category": "Programming",
+    "hourlyRate": 450,
+    "rating": 4.9,
+    "reviewsCount": 15,
+    "createdAt": "2026-09-01T10:40:00.000Z"
+  },
+  {
+    "id": "skill006",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Figma UI Design",
+    "description": "Learn UI design, wireframes, prototypes and design systems using Figma.",
+    "category": "Design",
+    "hourlyRate": 350,
+    "rating": 4.8,
+    "reviewsCount": 11,
+    "createdAt": "2026-09-01T10:50:00.000Z"
+  },
+  {
+    "id": "skill007",
+    "mentorId": "YOUR_USER_ID",
+    "name": "UI/UX Design",
+    "description": "Learn user research, wireframing, prototyping and usability principles.",
+    "category": "Design",
+    "hourlyRate": 500,
+    "rating": 4.7,
+    "reviewsCount": 9,
+    "createdAt": "2026-09-01T11:00:00.000Z"
+  },
+  {
+    "id": "skill008",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Cybersecurity Basics",
+    "description": "Learn cybersecurity fundamentals, common attacks and security practices.",
+    "category": "Cybersecurity",
+    "hourlyRate": 600,
+    "rating": 4.9,
+    "reviewsCount": 14,
+    "createdAt": "2026-09-01T11:10:00.000Z"
+  },
+  {
+    "id": "skill009",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Ethical Hacking",
+    "description": "Learn ethical hacking concepts, reconnaissance, vulnerability assessment and security testing.",
+    "category": "Cybersecurity",
+    "hourlyRate": 700,
+    "rating": 4.8,
+    "reviewsCount": 13,
+    "createdAt": "2026-09-01T11:20:00.000Z"
+  },
+  {
+    "id": "skill010",
+    "mentorId": "YOUR_USER_ID",
+    "name": "SQL and Databases",
+    "description": "Learn SQL queries, joins, database design and CRUD operations.",
+    "category": "Programming",
+    "hourlyRate": 400,
+    "rating": 4.6,
+    "reviewsCount": 8,
+    "createdAt": "2026-09-01T11:30:00.000Z"
+  },
+  {
+    "id": "skill011",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Data Science",
+    "description": "Learn data analysis, visualization and basic data science concepts.",
+    "category": "Data Science",
+    "hourlyRate": 600,
+    "rating": 4.7,
+    "reviewsCount": 10,
+    "createdAt": "2026-09-01T11:40:00.000Z"
+  },
+  {
+    "id": "skill012",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Machine Learning",
+    "description": "Learn machine learning fundamentals, algorithms and model evaluation.",
+    "category": "Data Science",
+    "hourlyRate": 800,
+    "rating": 4.9,
+    "reviewsCount": 16,
+    "createdAt": "2026-09-01T11:50:00.000Z"
+  },
+  {
+    "id": "skill013",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Digital Marketing",
+    "description": "Learn SEO, social media marketing, content marketing and online campaigns.",
+    "category": "Marketing",
+    "hourlyRate": 450,
+    "rating": 4.5,
+    "reviewsCount": 6,
+    "createdAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "skill014",
+    "mentorId": "YOUR_USER_ID",
+    "name": "Public Speaking",
+    "description": "Improve communication, presentation skills and public speaking confidence.",
+    "category": "Business",
+    "hourlyRate": 300,
+    "rating": 4.6,
+    "reviewsCount": 7,
+    "createdAt": "2026-09-01T12:10:00.000Z"
+  },
+  {
+    "id": "skill015",
+    "mentorId": "YOUR_USER_ID",
+    "name": "English Communication",
+    "description": "Improve spoken English, vocabulary, grammar and professional communication.",
+    "category": "Languages",
+    "hourlyRate": 250,
+    "rating": 4.8,
+    "reviewsCount": 12,
+    "createdAt": "2026-09-01T12:20:00.000Z"
+  }
+]

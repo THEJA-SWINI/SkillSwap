@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1789278270567",
+    "name": "YASHASWINI D S",
+    "email": "yashaswinisurendra5@gmail.com",
+    "password": "$2b$10$3HTfYWM/x4XR5SJdaI6dgORVK2KOnu98k47aeolI.vdLRC6H2x/32",
+    "bio": "",
+    "location": "",
+    "skills": [],
+    "rating": 0,
+    "reviews": []
+  },
+  {
+    "id": "1789278296243",
+    "name": "YASHASWINI D S",
+    "email": "job.and.intership.2005@gn",
+    "password": "$2b$10$ypfN.47uVIuBf56zS6b6k.k7I40RfaE91qvy/stbekIvMHVzglAv6",
+    "bio": ".....",
+    "location": "Bengaluru",
+    "skills": [],
+    "rating": 0,
+    "reviews": []
+  }
+]
